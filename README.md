@@ -13,7 +13,7 @@
 
 (1) Université de Toulouse -- INSA
 
-(2) Université de Toulouse -- Paul Sabatier
+(2) Université de Toulouse -- Paul Sabatier 3
 
 ## 1 Introduction
 ### 1.1 IA au quotidien et apprentissage statistique
